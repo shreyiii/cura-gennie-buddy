@@ -129,7 +129,11 @@ const Index = () => {
                   Check Your Symptoms
                 </Button>
               </Link>
+<<<<<<< HEAD
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-health-primary">
+=======
+              <Button size="lg" variant="outline" className="border-white text-blue hover:bg-white hover:text-health-primary">
+>>>>>>> b29ea93 (changes done)
                 <TrendingUp className="h-5 w-5 mr-2" />
                 Explore Health Insights
               </Button>
@@ -293,7 +297,11 @@ const Index = () => {
                 Start Symptom Assessment
               </Button>
             </Link>
+<<<<<<< HEAD
             <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-health-primary">
+=======
+            <Button size="lg" variant="outline" className="border-white text-blue hover:bg-white hover:text-health-primary">
+>>>>>>> b29ea93 (changes done)
               <Heart className="h-5 w-5 mr-2" />
               Learn More
             </Button>
@@ -306,7 +314,17 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="flex items-center justify-center mb-4">
+<<<<<<< HEAD
               <Heart className="h-8 w-8 mr-2" />
+=======
+            <img
+              src="/cura-logo.png"
+              alt="Cura Gennie Logo"
+              width={110}
+              height={110}
+              className="flex-shrink-0 w-[110px] h-[110px] object-contain mt-2"
+            />
+>>>>>>> b29ea93 (changes done)
               <div>
                 <span className="text-2xl font-bold">Cura Gennie</span>
                 <div className="text-sm text-white/80">Your Health Buddy</div>
@@ -316,7 +334,11 @@ const Index = () => {
               Empowering individuals with AI-driven health insights and connecting them with healthcare professionals worldwide.
             </p>
             <div className="text-sm text-white/60">
+<<<<<<< HEAD
               © 2024 Cura Gennie. All rights reserved. | This platform is for informational purposes only and should not replace professional medical advice.
+=======
+              © 2025 Cura Gennie. All rights reserved. | This platform is for informational purposes only and should not replace professional medical advice.
+>>>>>>> b29ea93 (changes done)
             </div>
           </div>
         </div>

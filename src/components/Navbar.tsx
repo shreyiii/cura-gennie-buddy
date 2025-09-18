@@ -47,7 +47,17 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
+<<<<<<< HEAD
             <HeartHandshake className="h-8 w-8 text-health-primary" />
+=======
+          <img
+              src="/cura-logo.png"
+              alt="Cura Gennie Logo"
+              width={90}
+              height={90}
+              className="flex-shrink-0 w-[90px] h-[90px] object-contain mt-4"
+            />
+>>>>>>> b29ea93 (changes done)
             <div>
               <span className="text-xl font-bold text-health-primary">Cura Gennie</span>
               <div className="text-xs text-muted-foreground">Your Health Buddy</div>
